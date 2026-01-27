@@ -1,8 +1,0 @@
-NEOSUITE — Version 1.0.0 (Build 2026.01.26)
-
-Nouveautés
-- Première mise en place du système de mise à jour centralisée
-- Ajout du Centre d’aide et du moteur d’assistance
-
-Notes
-- Pense à fermer Excel avant toute mise à jour
